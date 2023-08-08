@@ -25,6 +25,7 @@
     pkgs.google-chrome
     pkgs.bitwarden-cli
     pkgs.jq
+    pkgs.virt-manager
   ];
   programs.home-manager.enable = true;
   programs.git = {
